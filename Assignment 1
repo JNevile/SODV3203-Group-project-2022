@@ -1,0 +1,7 @@
+echo "# SODV3203-Group-project-2022" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JNevile/SODV3203-Group-project-2022.git
+git push -u origin main
