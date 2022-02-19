@@ -1,1 +1,50 @@
 
+Project Proposal SODV3203
+Group 5 - By Janine Neville
+Due Date: February 18, 2022
+
+Description of App:
+
+a. Broad topic for your app: Recipes 
+b. Name for your app: Food Hackz
+
+Features of App:
+
+1.	Screens: 
+
+(i) 	login screen including options to:	
+	(a) login with email; or 
+	(b)	to sign up for an account; or 
+	(c)	to login using Facebook (Third party API)
+
+(ii)	home page with options to 
+	(a) 	go to the recipe category listings page; or
+	(b)	sign out; or
+	(c)	search
+
+(iii)	category listing screen
+	(a) Browse entire listing of recipes by category; or
+	(b) Option to search; or
+	(c) return to home page
+
+(iv)	Individual recipe category screen
+	(a) Browse entire category of recipes that user selected from the 		      category screen as above; or
+	(b) option to search; or
+	(c) return to home page
+
+(v)	Individual recipe screen
+	(a) image of the recipe selected from the recipe category 	screen or from the search screen
+	(b) ingredient list for that recipe
+	(c) recipe directions 
+
+(vi)	Search screen
+	(a) search by ingredient
+	(b) search by keyword in recipe name
+
+2.	Features:
+
+(a)	Data that is persisted locally: Recipes and the images of the recipes
+
+(b)	Recipes and recipe illustrations will be categorized and labelled in 	broader groups for easy searching.
+
+(c)	A networked connection to and/or from the application in the form of a 	Third Party API allowing users to login with Facebook. 
