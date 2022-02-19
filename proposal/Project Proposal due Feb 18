@@ -9,7 +9,13 @@ Description of App:
 
 Features of App:
 
-1.	Screens: 
+- Data that is persisted locally: Recipes and the images of the recipes
+
+- Recipes and recipe illustrations will be organized in broader categories (3 ingredient recipes, cooking for 2, easy entertaining, etc).  Recipes will be searchable by ingredient name and by recipe name 
+
+- A networked connection to and/or from the application in the form of a 	Third Party API allowing users to login with Facebook
+
+Screens of App: 
 
 (i) 	Login screen including options to:	
 	(a) 	login with email; or 
@@ -40,13 +46,6 @@ Features of App:
 	(a) search by ingredient
 	(b) search by keyword in recipe name
 
-2.	Features:
-
-(a)	Data that is persisted locally: Recipes and the images of the recipes
-
-(b)	Recipes and recipe illustrations will be organized in broader categories (3 ingredient recipes, .  Recipes will be searchable by ingredient 	name and by recipe name 
-
-(c)	A networked connection to and/or from the application in the form of a 	Third Party API allowing users to login with Facebook
 
 Wireframe:
 *Wireframe is attached as a jpg and is also available to view at: 
